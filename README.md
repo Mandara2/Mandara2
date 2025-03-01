@@ -43,17 +43,13 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,django,css,html,js,react,angular,tailwind,nodejs,mysql,mongodb,git,github,postman,vscode,npm,idea,pycharm,bash,powershell />
+    <img src="https://skillicons.dev/icons?i=java,py,django,css,html,js,react,angular,tailwind,nodejs,mysql,mongodb,git,github,postman,vscode,npm,idea,pycharm,bash,powershell, ps&perline=12" />
   </a>
 </p>
 <br>
 <!-------------------------->
 <div id="proyectos">
 <h2 >Algunos proyectos 👨🏻‍💻</h2>
-
-<h2>Algunos proyectos 👨🏻‍💻</h2>
-
-<h2>Algunos proyectos 👨🏻‍💻</h2>
 
 <table align="left">
 <tr border="none">
