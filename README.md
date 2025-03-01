@@ -85,8 +85,8 @@
 <h3 align="left">Contactame:</h3>
 
 <div align="left">
-  <img src="https://www.linkedin.com/in/rafaelmedinalopez/" width="52" height="40" alt="linkedin logo"  />
-  <a href="https://github.com/1luk0/El-botin" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/rafaelmedinalopez/" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
     <a href="https://www.youtube.com/@rafamedina3636" target="_blank" rel="noopener noreferrer">
 </div>
