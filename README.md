@@ -56,11 +56,11 @@
   <td width="300px" align="center">
     <p align="center">
      <a href="https://youtu.be/MBlhsF_Yntc?si=9k_fIMQmCDbvCYYz" title="Go to Source">
-        <img align="center" width=100% src=https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgorCe6K6E-3Pj1cTAkyUjNNma5yVJbSB8xSmldx7q5fu4YjQrETEoFKkiamhAkWHiwF5Hu1XJpKttsnSZedDqoUr4LUPZ74dCzoF643yYjKTzQHOqG1KAeRz-fwnYWZ_QIP91Uw44eeM4/s1600/El+transporte+y+la+gesti%25C3%25B3n+log%25C3%25ADstica+elementos+clave+en+la+exportaci%25C3%25B3n.jpeg"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://www.mexcaltruckline.com/wp-content/uploads/2024/02/extra-charges-involved-in-otr-logistics-fees-2.jpg"   alt="VIDEO" /></a>
       </p>
     <p margin-top="10">Gestión de transportes</p>
     <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
+        <a href="[https://www.youtube.com/watch?v=MBlhsF_Yntc&t=2s&ab_channel=Rafamedina](https://www.youtube.com/watch?v=MBlhsF_Yntc&t=2s&ab_channel=Rafamedina)" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
       <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>      
 </td>  
