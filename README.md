@@ -51,24 +51,30 @@
 <div id="proyectos">
 <h2 >Algunos proyectos 👨🏻‍💻</h2>
 
-<table align="left" >
+<h2>Algunos proyectos 👨🏻‍💻</h2>
+
+<h2>Algunos proyectos 👨🏻‍💻</h2>
+
+<table align="left">
 <tr border="none">
   <td width="300px" align="center">
     <p align="center">
-     <a href="https://youtu.be/MBlhsF_Yntc?si=9k_fIMQmCDbvCYYz" title="Go to Source">
-        <img align="center" width=100% src="https://www.mexcaltruckline.com/wp-content/uploads/2024/02/extra-charges-involved-in-otr-logistics-fees-2.jpg"   alt="VIDEO" /></a>
-      </p>
+      <img align="center" width="100%" src="https://www.mexcaltruckline.com/wp-content/uploads/2024/02/extra-charges-involved-in-otr-logistics-fees-2.jpg" alt="VIDEO" />
+    </p>
     <p margin-top="10">Gestión de transportes</p>
     <p align="center">
-        <a href="[https://www.youtube.com/watch?v=MBlhsF_Yntc&t=2s&ab_channel=Rafamedina](https://www.youtube.com/watch?v=MBlhsF_Yntc&t=2s&ab_channel=Rafamedina)" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://www.youtube.com/watch?v=MBlhsF_Yntc&t=2s&ab_channel=Rafamedina" target="_blank" rel="noopener noreferrer">
+        <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video" />
+      </a>
+      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="_blank" rel="noopener noreferrer">
+        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+      </a>
     </p>      
-</td>  
-</td>
-</td>
-  
+  </td>  
 </tr>
 </table>
+
+
   </div>
 <br>
 <br><br>
