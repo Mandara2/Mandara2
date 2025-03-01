@@ -49,61 +49,55 @@
 <br>
 <!-------------------------->
 <div id="proyectos">
-<h2 >Algunos proyectos 👨🏻‍💻</h2>
+  <h2>Algunos proyectos 👨🏻‍💻</h2>
+  <table align="center" border="0" cellspacing="10" cellpadding="10">
+    <tr>
+      <td width="300px" align="center" valign="top">
+        <img width="250px" height="150px" src="https://www.mexcaltruckline.com/wp-content/uploads/2024/02/extra-charges-involved-in-otr-logistics-fees-2.jpg" alt="VIDEO" />
+        <p>Gestión de transportes</p>
+        <a href="https://www.youtube.com/watch?v=MBlhsF_Yntc&t=2s&ab_channel=Rafamedina" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video" />
+        </a>
+        <a href="https://github.com/Mandara2/front-end-transporte.git" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+        </a>
+      </td>
+      <td width="300px" align="center" valign="top">
+        <img width="250px" height="150px" src="https://universidadeuropea.com/resources/media/images/que-es-sistema-operativo-800x450.width-640.jpg" alt="VIDEO" />
+        <p>Sistema Operativo</p>
+        <a href="https://github.com/Mandara2/AstarothSO/tree/master" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+        </a>
+      </td>
+      <td width="300px" align="center" valign="top">
+        <img width="250px" height="150px" src="https://media.istockphoto.com/id/137426932/es/foto/vista-lateral-armado-acorazado-autom%C3%B3vil-que-estacione-en-la-calle-fuera-del-edificio.jpg?s=612x612&w=0&k=20&c=VWoPW-GXK010PuVOor3-pqcdXsrpXeH4-cMf3LZHv0M=" alt="VIDEO" />
+        <p>El botín</p>
+        <a href="https://github.com/1luk0/El-botin" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<table align="left">
-<tr border="none">
-  <td width="300px" align="center">
-    <p align="center">
-      <img align="center" width="100%" src="https://www.mexcaltruckline.com/wp-content/uploads/2024/02/extra-charges-involved-in-otr-logistics-fees-2.jpg" alt="VIDEO" />
-    </p>
-    <p margin-top="10">Gestión de transportes</p>
-    <p align="center">
-      <a href="https://www.youtube.com/watch?v=MBlhsF_Yntc&t=2s&ab_channel=Rafamedina" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video" />
-      </a>
-      <a href="https://github.com/Mandara2/front-end-transporte.git" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-      </a>
-    </p>      
-  </td>  
+<br><br><br><br>
+<hr width="60%" >
+<h3 align="left">Contactame:</h3>
 
-   <td width="300px" align="center">
-    <p align="center">
-      <img align="center" width="100%" src="https://universidadeuropea.com/resources/media/images/que-es-sistema-operativo-800x450.width-640.jpg" alt="VIDEO" />
-    </p>
-    <p margin-top="10">Sistema Operativo</p>
-    <p align="center">
-      <a href="https://github.com/Mandara2/AstarothSO/tree/master" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-      </a>
-    </p>      
-  </td>  
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://github.com/1luk0/El-botin" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <a href="https://www.linkedin.com/in/rafaelmedinalopez/" target="_blank" rel="noopener noreferrer">
+</div>
+<br>
 
-  <td width="300px" align="center">
-    <p align="center">
-      <img align="center" width="100%" src="https://universidadeuropea.com/resources/media/images/que-es-sistema-operativo-800x450.width-640.jpg" alt="VIDEO" />
-    </p>
-    <p margin-top="10">Sistema Operativo</p>
-    <p align="center">
-      <a href="https://github.com/Mandara2/AstarothSO/tree/master" target="_blank" rel="noopener noreferrer">
-        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-      </a>
-    </p>      
-  </td>  
-  
-</tr>
-</table>
 
 
   </div>
 <br>
 <br><br>
 <br>
-<br><br><br><br><br><br><br><br><br><br>
-<hr width="60%" >
-<h3 align="left">Contactame:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/rafaelmedinalopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
-</p>
-<br>
+
+
+
