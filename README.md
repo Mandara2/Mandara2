@@ -80,7 +80,7 @@
   </table>
 </div>
 
-<br><br><br><br>
+<br>
 <hr width="60%" >
 <h3 align="left">Contactame:</h3>
 
@@ -91,13 +91,6 @@
     <a href="https://www.linkedin.com/in/rafaelmedinalopez/" target="_blank" rel="noopener noreferrer">
 </div>
 <br>
-
-
-
-  </div>
-<br>
-<br><br>
-<br>
-
+  </div
 
 
