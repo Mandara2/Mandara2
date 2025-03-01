@@ -77,6 +77,22 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td width="300px" align="center" valign="top">
+        <img width="250px" height="150px" src="https://i.pinimg.com/736x/61/9b/97/619b9705d3703c8471a60e8529e62cb6.jpg" alt="VIDEO" />
+        <p>Portafolio</p>
+        <a href="https://github.com/Mandara2/Portafolio/tree/master" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+        </a>
+      </td>
+      <td width="300px" align="center" valign="top">
+        <img width="250px" height="150px" src="https://ferreco.com/modules/hiblog/views/img/upload/original/d805192fcc1aa0a92e68481c0d9b02e8.jpg" alt="VIDEO" />
+        <p>Gestion de inventario</p>
+        <a href="https://github.com/1luk0/El-botin" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
+        </a>
+      </td>
+    </tr>
   </table>
 </div>
 
