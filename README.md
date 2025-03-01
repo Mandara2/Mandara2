@@ -10,7 +10,7 @@
     <b>soy un apasionado autodidacta</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> me desempeño como  <b>Desarrollador Web</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br> soy una persona disciplinada, resiliente, comprometida y que sobre todo <b>ama lo que hace...</b>
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">"Un objetivo sin un plan es solo un deseo”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+   <b><i align="center">"Un objetivo sin un plan es solo un deseo”</i></b>
 </p>
 
 <br><br>
