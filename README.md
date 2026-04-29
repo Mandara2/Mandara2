@@ -1,13 +1,13 @@
 <h1 align="center"><b>Hola , soy Rafael Medina </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+sistemas;Web+Developer;Universidad+de+Caldas+☀️;Apasionado+por+aprender;Echa+un+vistazo+mi+perfil..:D"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+sistemas;AI+Developer;Universidad+de+Caldas+☀️;Apasionado+por+aprender;Echa+un+vistazo+mi+perfil..:D"></a>
 </p>
 
 <p align="center">
   <em>
     Hola, soy Rafael Medina López actual estudiante de la <b>Universidad de Caldas</b>. <br>
-    <b>soy un apasionado autodidacta</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> me desempeño como  <b>Desarrollador Web</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br> soy una persona disciplinada, resiliente, comprometida y que sobre todo <b>ama lo que hace...</b>
+    <b>soy un apasionado autodidacta</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> me desempeño como  <b>Desarrollador de IA</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br> soy una persona disciplinada, resiliente, comprometida y que sobre todo <b>ama lo que hace...</b>
   </em> 
   <br>
    <b><i align="center">"Un objetivo sin un plan es solo un deseo”</i></b>
