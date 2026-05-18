@@ -113,8 +113,8 @@ Systems Engineering student at **Universidad de Caldas**, passionate about the i
       <sub><b>LangGraph</b></sub>
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=openai&theme=dark" width="45" height="45"/><br/>
-      <sub><b>OpenAI</b></sub>
+      <img src="https://skillicons.dev/icons?i=gemini&theme=dark" width="45" height="45"/><br/>
+      <sub><b>Gemini</b></sub>
     </td>
   </tr>
 </table>
