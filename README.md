@@ -1,112 +1,155 @@
-<h1 align="center"><b>Hola , soy Rafael Medina </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+sistemas;AI+Developer;Universidad+de+Caldas+☀️;Apasionado+por+aprender;Echa+un+vistazo+mi+perfil..:D"></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <em>
-    Hola, soy Rafael Medina López actual estudiante de la <b>Universidad de Caldas</b>. <br>
-    <b>soy un apasionado autodidacta</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> me desempeño como  <b>Desarrollador de IA</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br> soy una persona disciplinada, resiliente, comprometida y que sobre todo <b>ama lo que hace...</b>
-  </em> 
-  <br>
-   <b><i align="center">"Un objetivo sin un plan es solo un deseo”</i></b>
-</p>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d1b3e,100:1a1a2e&height=200&section=header&text=Rafael%20Medina%20López&fontSize=42&fontColor=00d4ff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Deep%20Learning%20Researcher%20%7C%20Agentic%20Systems&descColor=7b8cde&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<br><br>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+AI+agents+that+think+%26+act+autonomously;Deep+Learning+%7C+RAG+Architectures+%7C+MLOps;IEEE+Published+Researcher+%40+UdeCaldas;CNN+%2B+Vision+Transformer+%7C+98%25+Accuracy;Full+Stack+Engineer+%E2%86%92+FastAPI+%2B+React" alt="Typing SVG" />
+</a>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Acerca de mi ....***
+<br/>
 
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rafaelmedinalopez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelmedinalopez)
+[![GitHub](https://img.shields.io/badge/GitHub-RafaelMedina-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaelMedina)
+[![IEEE](https://img.shields.io/badge/IEEE_Xplore-Published-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://lnkd.in/ebTmrigA)
+[![Email](https://img.shields.io/badge/Email-rafaelmedinalpz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelmedinalpz@gmail.com)
 
-
-
-<!--Intro start-->
-
-<p align="left">
-🎓 Ingeniero de sistemas y computación
-
-👨‍💻 Apasionado por la tecnología y la investigación
-
-🌍 Nivel conversacional en inglés
-
-🚀 Comprometido, adaptable y muy disciplinado 
-
-🤖 Entusiasmado por la inteligencia artificial
-
-📫 Contacto: **rafaelmedinalpz@gmail.com**
-<!--Intro end-->
-  </p>
-<br>
-
-<h2 >Tecnologías conocidas 👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,django,css,html,js,react,angular,tailwind,nodejs,mysql,mongodb,git,github,postman,vscode,npm,idea,pycharm,bash,powershell, ps&perline=12" />
-  </a>
-</p>
-<br>
-<!-------------------------->
-<div id="proyectos">
-  <h2>Algunos proyectos 👨🏻‍💻</h2>
-  <table align="center" border="0" cellspacing="10" cellpadding="10">
-    <tr>
-      <td width="300px" align="center" valign="top">
-        <img width="250px" height="150px" src="https://www.mexcaltruckline.com/wp-content/uploads/2024/02/extra-charges-involved-in-otr-logistics-fees-2.jpg" alt="VIDEO" />
-        <p>Gestión de transportes</p>
-        <a href="https://www.youtube.com/watch?v=MBlhsF_Yntc&t=2s&ab_channel=Rafamedina" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video" />
-        </a>
-        <a href="https://github.com/Mandara2/front-end-transporte.git" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-        </a>
-      </td>
-      <td width="300px" align="center" valign="top">
-        <img width="250px" height="150px" src="https://universidadeuropea.com/resources/media/images/que-es-sistema-operativo-800x450.width-640.jpg" alt="VIDEO" />
-        <p>Sistema Operativo</p>
-        <a href="https://github.com/Mandara2/AstarothSO/tree/master" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-        </a>
-      </td>
-      <td width="300px" align="center" valign="top">
-        <img width="250px" height="150px" src="https://media.istockphoto.com/id/137426932/es/foto/vista-lateral-armado-acorazado-autom%C3%B3vil-que-estacione-en-la-calle-fuera-del-edificio.jpg?s=612x612&w=0&k=20&c=VWoPW-GXK010PuVOor3-pqcdXsrpXeH4-cMf3LZHv0M=" alt="VIDEO" />
-        <p>El botín</p>
-        <a href="https://github.com/1luk0/El-botin" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td width="300px" align="center" valign="top">
-        <img width="250px" height="150px" src="https://i.pinimg.com/736x/61/9b/97/619b9705d3703c8471a60e8529e62cb6.jpg" alt="VIDEO" />
-        <p>Portafolio</p>
-        <a href="https://github.com/Mandara2/Portafolio/tree/master" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-        </a>
-      </td>
-      <td width="300px" align="center" valign="top">
-        <img width="250px" height="150px" src="https://ferreco.com/modules/hiblog/views/img/upload/original/d805192fcc1aa0a92e68481c0d9b02e8.jpg" alt="VIDEO" />
-        <p>Gestion de inventario</p>
-        <a href="https://github.com/1luk0/El-botin" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo" />
-        </a>
-      </td>
-    </tr>
-  </table>
 </div>
 
-<br>
-<hr width="60%" >
-<h3 align="left">Contactame:</h3>
+---
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <a href="https://www.linkedin.com/in/rafaelmedinalopez/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-    <a href="https://www.youtube.com/@rafamedina3636" target="_blank" rel="noopener noreferrer">
+## `> whoami`
+
+```python
+class RafaelMedina:
+    role        = "AI Engineer & Full Stack Developer"
+    focus       = ["Deep Learning", "Agentic AI", "RAG Architectures", "MLOps"]
+    research    = "IEEE Published — Alzheimer's Classification (98% accuracy)"
+    currently   = "Building agentic systems for real business automation"
+    education   = "Systems Engineering @ Universidad de Caldas (2023–present)"
+    languages   = ["Python", "TypeScript", "Java", "JavaScript"]
+    location    = "Colombia 🇨🇴"
+```
+
+> I build AI systems that **perceive, reason, and act** — from research-grade deep learning models to production agentic pipelines that solve real business problems.
+
+---
+
+## `> research`
+
+<div align="center">
+
+### 📄 IEEE Xplore — Published Paper
+
 </div>
-<br>
-  </div
 
+> **"A Convolutional Vision Transformer with Channel Attention for Multi-Class Alzheimer's Disease Classification Using MRI"**
+>
+> *4th IEEE Colombian BioCAS Workshop 2025*
+>
+> Designed a hybrid CNN–ViT architecture with channel attention mechanisms for multi-class Alzheimer's staging from MRI scans. Achieved **98% classification accuracy** across disease progression stages.
+>
+> 🔗 [Read on IEEE Xplore](https://lnkd.in/ebTmrigA)
 
+**Coauthors:** Mario Bravo · Sergio Holguín · Ernesto Guevara · Luis Cardona · Isabel Benitez
+
+---
+
+## `> tech_stack`
+
+<div align="center">
+
+#### AI & Research
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+#### Agentic AI & LLMs
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB_Vector-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### Full Stack & Infrastructure
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+</div>
+
+---
+
+## `> featured_projects`
+
+<div align="center">
+
+| Project | Description | Stack |
+|---|---|---|
+| 🧠 **Alzheimer Detection CNN-ViT** | Hybrid architecture for MRI-based disease staging — **98% accuracy** — IEEE Published | PyTorch · ViT · CNNs · MRI |
+| 🔬 **Cervical Cancer Detector** | Deep Learning pipeline for cervical cancer stage detection, REST-deployed | TensorFlow · React · FastAPI |
+| ⚖️ **AI Legal Assistant** | Voice-interactive legal agent with animated avatar — **1st place Hackathon Talento Tech 2025** | LangChain · Angular · MongoDB |
+| 🚚 **Logistics Management Platform** | Scalable national shipping system with optimized data flows | SpringBoot · AdonisJS · Angular |
+
+</div>
+
+---
+
+## `> github_stats`
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelMedina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b8cde&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMedina&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelMedina&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7b8cde&fire=00d4ff&currStreakLabel=00d4ff" width="49%"/>
+
+</div>
+
+---
+
+## `> contribution_graph`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RafaelMedina/RafaelMedina/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+## `> currently_building`
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🤖  Agentic AI systems for business logic automation            │
+│      ↳ LangChain + FastAPI + Docker                              │
+│                                                                  │
+│  🏥  Cervical cancer deep learning pipeline                      │
+│      ↳ CNN training · REST API deployment · React frontend       │
+│                                                                  │
+│  📚  Continuing research in medical AI @ Semillero UdeCaldas    │
+│      ↳ Computer Vision · Predictive medical models               │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:0d1b3e,100:0a0f1e&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+*"Research without deployment is incomplete. Code without purpose is noise."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=RafaelMedina&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
