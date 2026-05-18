@@ -66,109 +66,114 @@ Systems Engineering student at **Universidad de Caldas**, passionate about the i
 
 <div align="center">
 
-**AI & Deep Learning**
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+**🧠 AI & Deep Learning**
 
 <table>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48"/><br/>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="45" height="45"/><br/>
       <sub><b>Python</b></sub>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48"/><br/>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="45" height="45"/><br/>
       <sub><b>TensorFlow</b></sub>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48"/><br/>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="45" height="45"/><br/>
       <sub><b>PyTorch</b></sub>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48" height="48"/><br/>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="45" height="45"/><br/>
       <sub><b>OpenCV</b></sub>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" height="48"/><br/>
-      <sub><b>Scikit-Learn</b></sub>
-    </td>
   </tr>
 </table>
 
-<br/>
+</td>
+    <td valign="top" width="50%">
 
-**Agentic AI & Backend**
+**🤖 Agentic AI & Backend**
 
 <table>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48"/><br/>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="45" height="45"/><br/>
       <sub><b>FastAPI</b></sub>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48"/><br/>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="45" height="45"/><br/>
       <sub><b>Docker</b></sub>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48"/><br/>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="45" height="45"/><br/>
       <sub><b>MongoDB</b></sub>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48"/><br/>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="45" height="45"/><br/>
       <sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48"/><br/>
-      <sub><b>Spring Boot</b></sub>
     </td>
   </tr>
 </table>
 
-<br/>
+</td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
 
-**Frontend & Full Stack**
+**🌐 Frontend & Full Stack**
 
 <table>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48"/><br/>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="45" height="45"/><br/>
       <sub><b>React</b></sub>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="48" height="48"/><br/>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="45" height="45"/><br/>
       <sub><b>Angular</b></sub>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="48" height="48"/><br/>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="45" height="45"/><br/>
       <sub><b>TypeScript</b></sub>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48"/><br/>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="45" height="45"/><br/>
       <sub><b>Tailwind</b></sub>
     </td>
   </tr>
 </table>
 
-<br/>
+</td>
+    <td valign="top" width="50%">
 
-**Tools & Cloud**
+**☁️ Tools & Cloud**
 
 <table>
   <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48"/><br/>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="45" height="45"/><br/>
       <sub><b>Git</b></sub>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48"/><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48"/><br/>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="45" height="45"/><br/>
       <sub><b>Google Cloud</b></sub>
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48"/><br/>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="45" height="45"/><br/>
+      <sub><b>Spring Boot</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" width="45" height="45"/><br/>
       <sub><b>Java</b></sub>
     </td>
+  </tr>
+</table>
+
+</td>
   </tr>
 </table>
 
@@ -195,21 +200,9 @@ Systems Engineering student at **Universidad de Caldas**, passionate about the i
 
 <div align="center">
 
-<a href="https://github.com/RafaelMedina">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelMedina&theme=tokyonight" width="100%"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/RafaelMedina">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelMedina&theme=tokyonight" width="32%"/>
-</a>
-<a href="https://github.com/RafaelMedina">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelMedina&theme=tokyonight" width="32%"/>
-</a>
-<a href="https://github.com/RafaelMedina">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelMedina&theme=tokyonight" width="32%"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=RafaelMedina&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b8cde&text_color=c9d1d9&include_all_commits=true" width="48%"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMedina&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=6" width="40%"/>
 
 </div>
 
