@@ -113,8 +113,8 @@ Systems Engineering student at **Universidad de Caldas**, passionate about the i
       <sub><b>LangGraph</b></sub>
     </td>
     <td align="center" width="80">
-      <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white" height="45"/><br/>
-      <sub><b>n8n</b></sub>
+      <img src="https://skillicons.dev/icons?i=openai&theme=dark" width="45" height="45"/><br/>
+      <sub><b>OpenAI</b></sub>
     </td>
   </tr>
 </table>
@@ -155,6 +155,10 @@ Systems Engineering student at **Universidad de Caldas**, passionate about the i
 <table>
   <tr>
     <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=azure&theme=dark" width="45" height="45"/><br/>
+      <sub><b>Azure</b></sub>
+    </td>
+    <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=git&theme=dark" width="45" height="45"/><br/>
       <sub><b>Git</b></sub>
     </td>
@@ -163,12 +167,8 @@ Systems Engineering student at **Universidad de Caldas**, passionate about the i
       <sub><b>Google Cloud</b></sub>
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="45" height="45"/><br/>
-      <sub><b>Spring Boot</b></sub>
-    </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=java&theme=dark" width="45" height="45"/><br/>
-      <sub><b>Java</b></sub>
+      <img src="https://img.shields.io/badge/-Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white" height="45"/><br/>
+      <sub><b>Claude Code</b></sub>
     </td>
   </tr>
 </table>
@@ -187,8 +187,8 @@ Systems Engineering student at **Universidad de Caldas**, passionate about the i
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| 🧠 **Alzheimer Detection CNN-ViT** | Hybrid architecture for MRI-based disease staging — **98% accuracy** — IEEE Published | PyTorch · ViT · CNNs |
-| 🔬 **Cervical Cancer Detector** | Deep Learning pipeline for cancer stage detection deployed via REST API | TensorFlow · FastAPI · React |
+| 🧠 **Alzheimer Detection CNN-ViT** | Hybrid architecture for MRI-based disease staging — **98% accuracy** — IEEE Published | TensorFlow · ViT · CNNs |
+| 🔬 **Cervical Cancer Detector** | Deep Learning pipeline for cancer stage detection deployed via REST API | PyTorch · FastAPI · React |
 | ⚖️ **AI Legal Assistant** | Voice-interactive legal agent with animated avatar — **🏆 1st place Hackathon Talento Tech 2025** | LangChain · Angular · MongoDB |
 | 🚚 **Logistics Platform** | Scalable national shipping management system | SpringBoot · AdonisJS · Angular |
 
