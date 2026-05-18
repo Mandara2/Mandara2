@@ -96,25 +96,25 @@ Systems Engineering student at **Universidad de Caldas**, passionate about the i
 </td>
     <td valign="top" width="50%">
 
-**🤖 Agentic AI & Backend**
+**🤖 Agentic AI & Orchestration**
 
 <table>
   <tr>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="45" height="45"/><br/>
-      <sub><b>FastAPI</b></sub>
-    </td>
     <td align="center" width="80">
       <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="45" height="45"/><br/>
       <sub><b>Docker</b></sub>
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="45" height="45"/><br/>
-      <sub><b>MongoDB</b></sub>
+      <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" height="45"/><br/>
+      <sub><b>LangChain</b></sub>
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="45" height="45"/><br/>
-      <sub><b>PostgreSQL</b></sub>
+      <img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white" height="45"/><br/>
+      <sub><b>LangGraph</b></sub>
+    </td>
+    <td align="center" width="80">
+      <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat&logo=n8n&logoColor=white" height="45"/><br/>
+      <sub><b>n8n</b></sub>
     </td>
   </tr>
 </table>
@@ -124,7 +124,7 @@ Systems Engineering student at **Universidad de Caldas**, passionate about the i
   <tr>
     <td valign="top" width="50%">
 
-**🌐 Frontend & Full Stack**
+**🌐 Full Stack**
 
 <table>
   <tr>
@@ -133,16 +133,16 @@ Systems Engineering student at **Universidad de Caldas**, passionate about the i
       <sub><b>React</b></sub>
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="45" height="45"/><br/>
-      <sub><b>Angular</b></sub>
+      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="45" height="45"/><br/>
+      <sub><b>FastAPI</b></sub>
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="45" height="45"/><br/>
-      <sub><b>TypeScript</b></sub>
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="45" height="45"/><br/>
+      <sub><b>MongoDB</b></sub>
     </td>
     <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="45" height="45"/><br/>
-      <sub><b>Tailwind</b></sub>
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="45" height="45"/><br/>
+      <sub><b>MySQL</b></sub>
     </td>
   </tr>
 </table>
