@@ -68,25 +68,109 @@ Systems Engineering student at **Universidad de Caldas**, passionate about the i
 
 **AI & Deep Learning**
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark&perline=8" />
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" height="48"/><br/>
+      <sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" height="48"/><br/>
+      <sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=opencv&theme=dark" width="48" height="48"/><br/>
+      <sub><b>OpenCV</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" height="48"/><br/>
+      <sub><b>Scikit-Learn</b></sub>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
 **Agentic AI & Backend**
 
-<img src="https://skillicons.dev/icons?i=fastapi,docker,mongodb,postgres&theme=dark&perline=8" />
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="48" height="48"/><br/>
+      <sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48"/><br/>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48"/><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48"/><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48"/><br/>
+      <sub><b>Spring Boot</b></sub>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
 **Frontend & Full Stack**
 
-<img src="https://skillicons.dev/icons?i=react,angular,typescript,tailwind&theme=dark&perline=8" />
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48"/><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=angular&theme=dark" width="48" height="48"/><br/>
+      <sub><b>Angular</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="48" height="48"/><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48"/><br/>
+      <sub><b>Tailwind</b></sub>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
 **Tools & Cloud**
 
-<img src="https://skillicons.dev/icons?i=git,github,gcp,java&theme=dark&perline=8" />
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48"/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48"/><br/>
+      <sub><b>Google Cloud</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48"/><br/>
+      <sub><b>Java</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -111,13 +195,21 @@ Systems Engineering student at **Universidad de Caldas**, passionate about the i
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=RafaelMedina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b8cde&text_color=c9d1d9"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelMedina&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
+<a href="https://github.com/RafaelMedina">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafaelMedina&theme=tokyonight" width="100%"/>
+</a>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaelMedina&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7b8cde&fire=00d4ff&currStreakLabel=00d4ff" width="50%"/>
+<a href="https://github.com/RafaelMedina">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RafaelMedina&theme=tokyonight" width="32%"/>
+</a>
+<a href="https://github.com/RafaelMedina">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafaelMedina&theme=tokyonight" width="32%"/>
+</a>
+<a href="https://github.com/RafaelMedina">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafaelMedina&theme=tokyonight" width="32%"/>
+</a>
 
 </div>
 
